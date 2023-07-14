@@ -8,4 +8,4 @@ echo "good practice"
 echo "good Morning"
 echo "Have a nice day"
 echo "Today is Friday!"
-echo "Happy Weekend"
+
