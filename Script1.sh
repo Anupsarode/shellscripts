@@ -1,4 +1,4 @@
-#!/bin/bash
+Script1.sh#!/bin/bash
 #This is my 1st shell script to print output
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
@@ -7,3 +7,5 @@ echo "Hello batch-19, We are learning Develops"
 echo "good practice"
 echo "good Morning"
 echo "Have a nice day"
+echo "Today is Friday!"
+echo "Happy Weekend"
